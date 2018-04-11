@@ -1,0 +1,10 @@
+table {	width: 100%;}
+
+table thead tr {
+	background: black;
+	color: #FFF;
+}
+
+table tbody tr:nth-child(odd) {
+	background: #f2f2f2;
+}
